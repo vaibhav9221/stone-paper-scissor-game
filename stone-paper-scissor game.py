@@ -57,31 +57,3 @@ elif computer==human:
 
 
 
-#
-#input == snake / water / gun only
-#play a game with programmed computer
-# x=input("")
-# import random
-# y=("snake","water","gun")
-# z=random.choice(y)
-# if x=="snake":
-#     if z=="water":
-#         print ("snake vs water" + "  Brave.U   Won")
-#     elif z=="gun":
-#         print ("snake vs gun" + " U lost.Better luck next time")
-#     elif z=="snake":
-#         print ("snake vs snake" + " \n DRAW")
-# elif x=="water":
-#     if z=="snake":
-#         print ("water vs snake" + " U lost.Better luck next time")
-#     elif z=="gun":
-#         print ("water vs gun" +" Wow Mr.Cool.Won")
-#     elif z=="water":
-#         print ("gun vs gun " + "\n DRAW")
-# elif x=="gun":
-#     if z=="snake":
-#         print ("gun vs snake" + "U won")
-#     elif z=="water":
-#         print ("gun vs water" + "Yeah superb.Won")
-#     elif z=="gun":
-#       print ("gun vs gun" + "\n DRAW")
